@@ -1,14 +1,14 @@
-# ✈️ TripPlanner — Travel Itinerary Builder
+# ✈️ SafarSathi — Your Travel Companion
 
 <div align="center">
 
-![TripPlanner](https://img.shields.io/badge/TripPlanner-Travel%20Itinerary%20Builder-4F46E5?style=for-the-badge&logo=airplanemodeactive)
+![SafarSathi](https://img.shields.io/badge/SafarSathi-Travel%20Itinerary%20Builder-4F46E5?style=for-the-badge&logo=airplanemodeactive)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-22C55E?style=for-the-badge)
 ![Hackathon](https://img.shields.io/badge/Full%20Stack-Hackathon%20Project-F59E0B?style=for-the-badge)
 
 <br/>
 
-> **"The average traveler uses 5+ different apps to plan a single trip. TripPlanner replaces them all."**
+> **"The average traveler uses 5+ different apps to plan a single trip. SafarSathi replaces them all."**
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 ## 🧭 Executive Summary
 
-**TripPlanner** is a full stack web application designed to eliminate the friction and frustration of modern travel planning. By consolidating itinerary management, hotel tracking, activity scheduling, budget monitoring, and trip sharing into a single cohesive platform, TripPlanner empowers travelers to plan smarter, stay organized, and travel with confidence.
+**SafarSathi** is a full stack web application designed to eliminate the friction and frustration of modern travel planning. By consolidating itinerary management, hotel tracking, activity scheduling, budget monitoring, and trip sharing into a single cohesive platform, SafarSathi empowers travelers to plan smarter, stay organized, and travel with confidence.
 
 This project is built using **React.js**, **Node.js**, **Express.js**, and **MongoDB** — delivering a responsive, secure, and scalable solution for real-world travel planning challenges.
 
@@ -118,7 +118,7 @@ These are not minor inconveniences — they represent **real friction that preve
 
 ### 👥 Target Users
 
-TripPlanner is designed to serve a broad range of travelers, each with distinct planning needs:
+SafarSathi is designed to serve a broad range of travelers, each with distinct planning needs:
 
 | User Segment | Pain Point | How They Benefit |
 |-------------|-----------|-----------------|
@@ -152,7 +152,7 @@ Several tools currently exist in this space, but none adequately solve the compl
 
 ### 🚀 Solution Overview
 
-**TripPlanner** is a purpose-built, full stack web application that serves as a **single source of truth for the entire travel planning lifecycle** — from the initial idea to post-trip reference.
+**SafarSathi** is a purpose-built, full stack web application that serves as a **single source of truth for the entire travel planning lifecycle** — from the initial idea to post-trip reference.
 
 It is designed around one core principle:
 
@@ -160,9 +160,9 @@ It is designed around one core principle:
 
 ---
 
-### ✅ How TripPlanner Solves Each Problem
+### ✅ How SafarSathi Solves Each Problem
 
-| # | Problem | TripPlanner Solution |
+| # | Problem | SafarSathi Solution |
 |---|---------|---------------------|
 | 1 | Fragmented tools | Single platform covering itinerary, hotels, activities, budget, and sharing |
 | 2 | No budget visibility | Real-time budget tracker with category breakdown and over-budget alerts |
@@ -174,7 +174,7 @@ It is designed around one core principle:
 
 ### 🏆 Key Differentiators
 
-What makes TripPlanner stand out from existing solutions:
+What makes SafarSathi stand out from existing solutions:
 
 ```
   ┌──────────────────────────────────────────────────────────────────┐
@@ -202,7 +202,7 @@ What makes TripPlanner stand out from existing solutions:
 
 ## 🏗️ Technical Approach
 
-To deliver this solution reliably and at scale, TripPlanner is architected using a proven modern full stack:
+To deliver this solution reliably and at scale, SafarSathi is architected using a proven modern full stack:
 
 ```
   ┌─────────────────────────────────────────────────────────────┐
@@ -247,7 +247,7 @@ To deliver this solution reliably and at scale, TripPlanner is architected using
 
 ## 📈 Success Metrics
 
-The success of TripPlanner will be measured against the following criteria:
+The success of SafarSathi will be measured against the following criteria:
 
 ```
   ✅  A user can create a complete trip with days, activities,
@@ -278,7 +278,7 @@ The success of TripPlanner will be measured against the following criteria:
 
 ---
 
-**✈️ TripPlanner**
+**✈️ SafarSathi**
 
 *Plan better. Travel smarter. Share easily.*
 
